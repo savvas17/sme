@@ -1,6 +1,8 @@
 # Setup Instructions
 (**NOTE**) There is no need to run the notebook since the outputs are already included in the cell outputs of the notebook.
 
+- Note: you must put the `.csv` files in the root directory of this repository (i.e. in the same folder as the notebook).
+
 ## Installation instructions
 1. Create a virtual environment called `venv` in the directory of this repo: `python -m venv venv`
 2. Activate the environment:
